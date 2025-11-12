@@ -27,13 +27,13 @@
   <tr>
     <td valign="top" width="120px"><strong>Frontend</strong></td>
     <td valign="top">
-      <code>Next.js</code> <code>React.js</code> <code>TailwindCSS</code>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>React.js</code> <code>TailwindCSS</code> <code>Next.js</code>
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>Backend</strong></td>
     <td valign="top">
-      <code>Next.js</code> <code>Node.js</code> <code>JavaScript</code> <code>[Tech 4]</code>
+      <code>Next.js</code> <code>Node.js</code> <code>JavaScript</code> <code></code>
     </td>
   </tr>
   <tr>
