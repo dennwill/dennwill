@@ -67,6 +67,7 @@ A website to generate sketchy-looking URLs quick. Made just for fun!
 
 <div align="center">
 <h3>Connect With Me</h3>
+
 [Portfolio](https://dennwill.tech) &nbsp;&bull;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/dennis-william-a89a8015b/) &nbsp;&bull;&nbsp;
 [Email](mailto:denniswilliam1419@gmail.com)
