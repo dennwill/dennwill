@@ -21,11 +21,15 @@ I am a computer science student and aspiring software engineer based in Indonesi
 <table>
   <tr>
     <td valign="top" width="120px"><strong>Frontend</strong></td>
-    <td valign="top"><code>Next.js</code> <code>React.js</code> <code>TailwindCSS</code></td>
+    <td valign="top">
+      <code>Next.js</code> <code>React.js</code> <code>TailwindCSS</code>
+    </td>
   </tr>
   <tr>
     <td valign="top"><strong>Backend</strong></td>
-    <td valign="top"><code>Next.js</code> <code>Node.js</code> <code>JavaScript</code> <code>TypeScript</code></td>
+    <td valign="top">
+      <code>Next.js</code> <code>Node.js</code> <code>JavaScript</code> <code>[Tech 4]</code>
+    </td>
   </tr>
   <tr>
     <td valign="top"><strong>Databases</strong></td>
@@ -61,10 +65,8 @@ A website to generate sketchy-looking URLs quick. Made just for fun!
 
 ---
 
-### Connect With Me
-
 <div align="center">
-
+<h3>Connect With Me</h3>
 [Portfolio](https://dennwill.tech) &nbsp;&bull;&nbsp;
 [LinkedIn](https://www.linkedin.com/in/dennis-william-a89a8015b/) &nbsp;&bull;&nbsp;
 [Email](mailto:denniswilliam1419@gmail.com)
