@@ -22,13 +22,13 @@ I am a computer science student and aspiring software engineer based in Indonesi
   <tr>
     <td valign="top" width="120px"><strong>Frontend</strong></td>
     <td valign="top">
-      <code>Next.js</code> <code>React.js</code> <code>TailwindCSS</code>
+      <code>Next.js</code> <code>React.js</code> <code>Vue.js</code> <code>TailwindCSS</code> <code>JavaScript</code>
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>Backend</strong></td>
     <td valign="top">
-      <code>Next.js</code> <code>Node.js</code> <code>JavaScript</code> <code>[Tech 4]</code>
+      <code>Next.js</code> <code>Node.js</code> <code>ExpressJS</code>
     </td>
   </tr>
   <tr>
