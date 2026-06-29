@@ -45,23 +45,23 @@ I am a computer science student and aspiring software engineer based in Indonesi
 
 ### Featured Projects
 
-#### [Patungan](https://github.com/dennwill/patungan)
-
-A stateless and modern split-billing web app that allows users to split the receipt with ease.
-
-**Stack:** `VueJS` `TailwindCSS` `Pinia` `Vite`
-
 #### [Transporindo](https://transporindo.com)
 
 A CMS-powered, bilingual, and smoothly-animated SPA (Single-page Application) logistics website that I made for my freelancing work.
 
 **Stack:** `Next.js` `TypeScript` `Sanity` `TailwindCSS` `Framer Motion`
 
-#### [Suspicious Link Generator](https://github.com/dennwill/suspicious-link-generator)
+#### [Patungan](https://github.com/dennwill/patungan)
 
-A website to generate sketchy-looking URLs quick. Made just for fun!
+A stateless and modern split-billing web app that allows users to split the receipt with ease.
 
-- **Stack:** `VueJS` `CSS`
+**Stack:** `VueJS` `TailwindCSS` `Pinia` `Vite`
+
+#### [STEMM](https://github.com/dennwill/STEMM)
+
+STEMM is a mobile app for running hands-on science and engineering challenges with student teams.
+
+- **Stack:** `Expo` `React Native` `TypeScript` `Firebase`
 
 ---
 
